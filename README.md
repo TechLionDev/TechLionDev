@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JeremiahISamuelDev
+- 👀 I’m interested in Media Creation and Freelancing 
+- 🌱 I’m currently learning C# and After Effects
+- 💞️ I’m looking to collaborate on Various Projects
+- 📫 How to reach me jr.isamuel08.dev@gmail.com
