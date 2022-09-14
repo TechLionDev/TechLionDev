@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JeremiahISamuelDev
+- 👋 Hi, I’m @TechLionDev
 - 👀 I’m interested in Media Creation and Freelancing 
-- 🌱 I’m currently learning C# and After Effects
-- 💞️ I’m looking to collaborate on Various Projects
+- 🌱 I’m currently learning Java and After Effects
 - 📫 How to reach me jr.isamuel08.dev@gmail.com
