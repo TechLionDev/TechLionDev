@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=TechLionDev&theme=catppuccin-macchiato&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,bash,blender,bun,css,devto,discord,electron,figma,github,gmail,html,idea,ai,java,js,linux,md,next.js,nodejs,ps,postman,pr,prisma,py,react,regex,stackoverflow,tailwind,ts,vscode)](https://techlion.dev/about)
