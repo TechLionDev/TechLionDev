@@ -9,7 +9,7 @@ I’m a 16‑year‑old INTJ programmer, Full‑Stack Developer, and Chairman at
 ## 🛠️ Skills & Technologies
 
 - **Languages & Frameworks**: TypeScript, JavaScript, Rust, C++, Python, React, Next.js, tRPC, PocketBase  
-- **Tools & Platforms**: Docker, Ubuntu, CasaOS, Nginx Proxy Manager, PiHole, Git, GitHub Actions  
+- **Tools & Platforms**: Docker, Ubuntu, Portainer, Nginx Proxy Manager, PiHole, Git, GitHub Actions, etc.
 - **Core Areas**: Operating Systems, Full‑Stack Web Development, API Design, DevOps, Homelab Automation
 
 ## 🔭 Notable Projects
