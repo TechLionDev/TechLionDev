@@ -38,7 +38,7 @@ I’m a 16‑year‑old INTJ programmer, Full‑Stack Developer, and Chairman at
 
 ## 📫 Contact
 
-- 🌐 Website: [techlion.dev](https://techlion.dev)  
+- 🌐 Website: [techlion.dev](https://www.techlion.dev)  
 - 📧 Email: jeremiahis@techlion.dev
 
 > "Knowledge speaks, but wisdom listens." – Jimi Hendrix
