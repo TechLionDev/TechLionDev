@@ -22,8 +22,7 @@ I’m a 16‑year‑old INTJ programmer, Full‑Stack Developer, and Chairman at
   Self‑hosting CasaOS, PiHole, and Docker containers on Ubuntu—WiFi‑powered.
 
 ## 📈 GitHub Stats
-
-[![TechLionDev's GitHub stats](https://github-readme-stats-lilac-five-10.vercel.app/api?username=TechLionDev&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/TechLionDev)
+[![TechLionDev's GitHub stats](https://github-readme-stats-lilac-five-10.vercel.app/api?username=TechLionDev&show_icons=true&theme=radical)](https://github.com/TechLionDev)
 
 ## 📊 WakaTime Stats (All Time)
 
