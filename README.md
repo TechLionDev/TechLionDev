@@ -41,4 +41,4 @@ I’m a 16‑year‑old INTJ programmer, Full‑Stack Developer, and Chairman at
 - 🌐 Website: [techlion.dev](https://www.techlion.dev)  
 - 📧 Email: jeremiahis@techlion.dev
 
-> "Knowledge speaks, but wisdom listens." – Jimi Hendrix
+> "This too shall pass" – King Solomon The Wise
