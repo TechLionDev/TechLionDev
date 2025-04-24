@@ -1,7 +1,3 @@
-<!--
-README for Jeremiah Ihab Samuel
--->
-
 # Hi there 👋, I’m Jeremiah Ihab Samuel (aka TechLionDev)
 
 I’m a 16‑year‑old INTJ programmer, Full‑Stack Developer, and Chairman at **TechLion Dev**. I build operating systems from scratch, design elegant web apps, and run a personal homelab to level up my infrastructure skills.
@@ -11,15 +7,6 @@ I’m a 16‑year‑old INTJ programmer, Full‑Stack Developer, and Chairman at
 - **Languages & Frameworks**: TypeScript, JavaScript, Rust, C++, Python, React, Next.js, tRPC, PocketBase  
 - **Tools & Platforms**: Docker, Ubuntu, Portainer, Nginx Proxy Manager, PiHole, Git, GitHub Actions, etc.
 - **Core Areas**: Operating Systems, Full‑Stack Web Development, API Design, DevOps, Homelab Automation
-
-## 🔭 Notable Projects
-
-- **Custom OS Kernel**  
-  Built an OS kernel from scratch to master low‑level systems programming.  
-- **TechLion Dev**  
-  Founder and Full‑Stack Dev at my own freelance agency, delivering modern, scalable apps.  
-- **Homelab Setup**  
-  Self‑hosting CasaOS, PiHole, and Docker containers on Ubuntu—WiFi‑powered.
 
 ## 📈 GitHub Stats
 [![TechLionDev's GitHub stats](https://github-readme-stats-lilac-five-10.vercel.app/api?username=TechLionDev&show_icons=true&theme=radical)](https://github.com/TechLionDev)
